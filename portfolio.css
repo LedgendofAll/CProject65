@@ -69,6 +69,7 @@ h2 {
     padding-right: 9px;
     padding-bottom: 5px;
     /* Make the menu items left*/
+    float: left;
 }
 
 .link:hover {
@@ -105,7 +106,7 @@ img {
 
 img:hover {
     /*Give transform property to scale to 0.9*/
-    
+    transform: scale(0.9);
 }
 ul {
     list-style-type: none;
